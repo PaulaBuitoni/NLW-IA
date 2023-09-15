@@ -1,0 +1,1 @@
+export const summaryExample = " é cada coisa que me aparece que eu fico doida"
